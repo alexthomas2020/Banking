@@ -7,6 +7,7 @@ from Account import get_account, get_accounts, Account
 
 """
 Banking Application - Unit tests for Account class.
+Run this program to view results of the tests.
 """
 
 
