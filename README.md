@@ -5,7 +5,7 @@ Object Oriented Program using SQLite database
 3. Classes: Bank, Branch, User, Customer, Employee, Account, Transaction, Database, Test_Account
 4. Files: 
 
-4.1. Banking.log stores logs from user actions from main menu.
+4.1. Banking.log stores logs from user actions.
 
 4.2. Bank.db: SQLite database, which stores all tables and data.
 
